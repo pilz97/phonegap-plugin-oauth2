@@ -9,6 +9,6 @@
         <clobbers target="PG_OAuth2" />
     </js-module>
 
-    <dependency id="cordova-plugin-inappbrowser" version="^1.7.0" />
+    <dependency id="cordova-plugin-inappbrowser" version="^4.0.0" />
 
 </plugin>
